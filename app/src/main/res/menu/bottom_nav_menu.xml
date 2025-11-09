@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/weatherFragment"
+        android:icon="@drawable/ic_sunny"
+        android:title="@string/weather_forecast" />
+    <item
+        android:id="@+id/calculatorFragment"
+        android:icon="@drawable/ic_cloudy"
+        android:title="@string/calculator" />
+    <item
+        android:id="@+id/listFragment"
+        android:icon="@drawable/ic_partly_cloudy"
+        android:title="@string/list" />
+</menu>
+
